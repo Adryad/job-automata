@@ -84,8 +84,9 @@ Use responsibly and at your own risk.
 MIT License © 2025 Adryad
 
 ---
-pleas add star
 ## 🧰 Bonus — Requirements File
 
 Create a `requirements.txt` with:
 
+---
+⭐ Star our repo if you find this helpful!
